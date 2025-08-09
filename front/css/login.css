@@ -26,9 +26,12 @@ main {
     border: none;
 }
 
-.login button {
+.login a {
     width: 150px;
     border: none;
     border-radius: 8px;
-    padding: 10px;  
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: none;
 }
