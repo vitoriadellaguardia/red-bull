@@ -9,10 +9,7 @@ Inclui **sistema de login** e **tabela interativa**.
 - **JavaScript** (frontend e backend)
 - **HTML5**
 - **CSS3**
-- **Node.js**
-- **Express**
-- **Express-Session** (para controle de login)
-- **Nodemon** (para desenvolvimento)
+- **Express** (backend)
 
 ---
 
