@@ -37,7 +37,7 @@ cd red-bull
     npm run dev
 ```
 
-## funcionalidades
+## 🚀 Funcionalidades
 
 - Tela de listagem 
 - Página de login
